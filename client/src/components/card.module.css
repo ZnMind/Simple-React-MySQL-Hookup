@@ -1,0 +1,22 @@
+.card {
+    display: flex;
+    align-items: flex-start;
+    border-bottom: 1px solid black;
+}
+
+.column1 {
+    width: 200px;
+    text-align: start;
+}
+
+.column {
+    color: white;
+    text-align: start;
+    width: 600px;
+}
+
+.small {
+    color: black;
+    font-size: small;
+    text-align: start;
+}
